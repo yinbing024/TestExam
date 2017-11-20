@@ -15,6 +15,9 @@ public class MainActivity extends FragmentActivity {
         setContentView(R.layout.activity_main);
         initView();
         setListener();
+		
+		///你好啊
+		
     }
 
     private void initView() {
